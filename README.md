@@ -4,7 +4,7 @@
 
 ## Module 5: Group - AJAX Calendar
 
-### Link: http://ec2-3-81-107-156.compute-1.amazonaws.com/~saulet/washucalendar/
+### Link: http://ec2-54-145-205-126.compute-1.amazonaws.com/~saulet/washucalendar/
 
 ## Overview:
 
